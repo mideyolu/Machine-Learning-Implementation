@@ -54,18 +54,17 @@ To run this project locally, follow these steps:\*\*\*\*
 
 ![Alt text](app.png)
 
+## Usage
 1. Navigate to the project directory:
    ```bash
-   cd Wine-quality then cd UI
+   cd Wine-quality then
+   cd UI
    ```
-2. run the following command in the terminal: python app.py
-
-## Usage
-
-1. Ensure you have installed the required dependencies.
-2. Run the prediction script:
+2. Ensure you have installed the required dependencies.
+   
+3. Run the prediction script:
    ```bash
-   python winequality.ipynb
+   python app.py
    ```
 
 ## Contributing
