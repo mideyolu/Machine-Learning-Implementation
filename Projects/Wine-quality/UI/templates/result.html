@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wine Quality Prediction Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container" id="result">
+        <h2>Prediction Result</h2>
+        <p>The predicted wine quality is: {{ prediction }}</p>
+        <a href="/">Go back to Home</a>
+    </div>
+
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const upward = document.getElementById('result');
+
+            function clickHandler() {
+                // Apply the scale transformation when clicked
+                upward.style.transform = 'scale(1.2)';
+                
+                // Remove the event listener after click
+                upward.removeEventListener('click', clickHandler);
+            }
+
+            upward.addEventListener('click', clickHandler);
+        });
+    </script>
+</body>
+</html>
