@@ -1,5 +1,3 @@
-Certainly! Below is a simple `README.md` file that you can use for your Logistic Regression implementation. You may want to further customize it based on your specific needs.
-
 ```markdown
 
 ## Table of Contents
