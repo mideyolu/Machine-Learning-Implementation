@@ -19,4 +19,3 @@ Explore the various directories within the repository to find projects, notebook
 Happy coding and happy learning! 🚀🤖
 
 
-[![Screenshot-725.png](https://i.postimg.cc/wjRJkprT/Screenshot-725.png)](https://postimg.cc/BjsXqdsd)
