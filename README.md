@@ -17,3 +17,6 @@ This repository serves as a comprehensive collection of machine learning models,
 Explore the various directories within the repository to find projects, notebooks, and scripts related to different machine learning topics. Each section is organized to provide a structured learning experience. Feel free to experiment, modify, and contribute to the existing projects.
 
 Happy coding and happy learning! 🚀🤖
+
+
+[![Screenshot-725.png](https://i.postimg.cc/wjRJkprT/Screenshot-725.png)](https://postimg.cc/BjsXqdsd)
